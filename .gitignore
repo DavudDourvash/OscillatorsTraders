@@ -1,0 +1,5 @@
+
+# exclude these file types and patterns
+*.csv
+*.RData
+*.Rhistory
