@@ -1,0 +1,10 @@
+Introduction
+
+to update Oscillator traders, you need to update some tables and parameters every time. 
+
+
+first is states, it uses to add states to main data by join, you should add  new states to "States.xlsx" every time you want to update. 
+
+
+second,update 'fund'_trades.csv file by downloading last updated data from DB (sourced in ddn), also you should remove "ETF" codes from file. 
+
