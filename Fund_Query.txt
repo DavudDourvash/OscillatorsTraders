@@ -1,0 +1,4 @@
+
+# read Fund_trades from DB
+select * from public.'Fund'_Trades
+where buyer_code_sahamdari not like '%ETF%'
